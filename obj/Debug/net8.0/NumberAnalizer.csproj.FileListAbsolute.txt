@@ -1,0 +1,14 @@
+C:\Users\molin\source\repos\NumberAnalizer\NumberAnalizer\obj\Debug\net8.0\NumberAnalizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\molin\source\repos\NumberAnalizer\NumberAnalizer\obj\Debug\net8.0\NumberAnalizer.AssemblyInfoInputs.cache
+C:\Users\molin\source\repos\NumberAnalizer\NumberAnalizer\obj\Debug\net8.0\NumberAnalizer.AssemblyInfo.cs
+C:\Users\molin\source\repos\NumberAnalizer\NumberAnalizer\obj\Debug\net8.0\NumberAnalizer.csproj.CoreCompileInputs.cache
+C:\Users\molin\source\repos\NumberAnalizer\NumberAnalizer\bin\Debug\net8.0\NumberAnalizer.exe
+C:\Users\molin\source\repos\NumberAnalizer\NumberAnalizer\bin\Debug\net8.0\NumberAnalizer.deps.json
+C:\Users\molin\source\repos\NumberAnalizer\NumberAnalizer\bin\Debug\net8.0\NumberAnalizer.runtimeconfig.json
+C:\Users\molin\source\repos\NumberAnalizer\NumberAnalizer\bin\Debug\net8.0\NumberAnalizer.dll
+C:\Users\molin\source\repos\NumberAnalizer\NumberAnalizer\bin\Debug\net8.0\NumberAnalizer.pdb
+C:\Users\molin\source\repos\NumberAnalizer\NumberAnalizer\obj\Debug\net8.0\NumberAnalizer.dll
+C:\Users\molin\source\repos\NumberAnalizer\NumberAnalizer\obj\Debug\net8.0\refint\NumberAnalizer.dll
+C:\Users\molin\source\repos\NumberAnalizer\NumberAnalizer\obj\Debug\net8.0\NumberAnalizer.pdb
+C:\Users\molin\source\repos\NumberAnalizer\NumberAnalizer\obj\Debug\net8.0\NumberAnalizer.genruntimeconfig.cache
+C:\Users\molin\source\repos\NumberAnalizer\NumberAnalizer\obj\Debug\net8.0\ref\NumberAnalizer.dll
