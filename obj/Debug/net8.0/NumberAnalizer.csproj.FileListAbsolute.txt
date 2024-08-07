@@ -12,3 +12,4 @@ C:\Users\molin\source\repos\NumberAnalizer\NumberAnalizer\obj\Debug\net8.0\refin
 C:\Users\molin\source\repos\NumberAnalizer\NumberAnalizer\obj\Debug\net8.0\NumberAnalizer.pdb
 C:\Users\molin\source\repos\NumberAnalizer\NumberAnalizer\obj\Debug\net8.0\NumberAnalizer.genruntimeconfig.cache
 C:\Users\molin\source\repos\NumberAnalizer\NumberAnalizer\obj\Debug\net8.0\ref\NumberAnalizer.dll
+C:\Users\molin\source\repos\NumberAnalizer\NumberAnalizer\obj\Debug\net8.0\NumberAnalizer.sourcelink.json

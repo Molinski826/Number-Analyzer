@@ -9,24 +9,26 @@ namespace NumberAnalizer
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Welcome to the Number Analizer");
+            Console.Write("What is your name please?: ");
+            string userName = Console.ReadLine();
+
             bool runProgram = true;
             while (runProgram == true)
 
             {
 
 
-                Console.WriteLine("Welcome to the Number Analizer");
-                Console.Write("What is your name please?: ");
-                string userName = Console.ReadLine();
+               
 
                
-                int number = 0;
+                int number = -1;
 
                 do
                 {
                     Console.Write("Hello " + userName + " Please enter a number between 1 and 100: ");
                     number = int.Parse(Console.ReadLine());
-                } while (number < 0 || number > 100);
+                } while (number < 1 || number > 100);
 
 
 
